@@ -191,15 +191,8 @@ avrdude -c usbasp -p atmega328p -U lfuse:w:0xFF:m -U hfuse:w:0xDE:m
 
 ---
 
-## 9. KiCad Schematic
+## 9. Block Daigram
 
-File: `kicad/vehicle_safety.kicad_sch`
-
-Open with **KiCad 7.x or later**:
-1. Install KiCad 7 from https://www.kicad.org/
-2. Open `vehicle_safety.kicad_pro`
-3. The schematic references standard KiCad libraries
-4. Run **Tools → Electrical Rules Checker** to validate
 
 ---
 
