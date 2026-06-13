@@ -1,4 +1,4 @@
-# Integrated Intelligent Vehicle Safety and Accident Prevention System
+# Vehicle Safety System
 ## System Overview & Documentation
 
 ---
