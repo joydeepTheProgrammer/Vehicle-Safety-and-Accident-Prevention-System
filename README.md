@@ -191,7 +191,8 @@ avrdude -c usbasp -p atmega328p -U lfuse:w:0xFF:m -U hfuse:w:0xDE:m
 
 ---
 
-## 9. Block Daigram
+## 9. Block Diagram
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/489f5374-5657-4c41-a44a-805226a9c7f8" />
 
 
 ---
